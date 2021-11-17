@@ -1,0 +1,3 @@
+nomeTeste;email;password;resultado
+loginValido;carlakdias@gmail.com;Javatest1234*;positivo
+loginInvalido;carlakdias@gmail.com;1234;negativo
